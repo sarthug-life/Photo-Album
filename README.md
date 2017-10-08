@@ -8,7 +8,8 @@ The Photo Album has following features:-
 	
 	- album php: Browsing through the album using next, prev, last, first buttons
 
-	- Image upload page that allows you to add an image to the album: new_upload.php is the form 						  & upload.php is the processing:
+	- Image upload page that allows you to add an image to the album: new_upload.php is the form 
+	  & upload.php is the processing:
 		
 		- Check for image format as jpg in php
 		- Check for image size to be less than 200KB in php

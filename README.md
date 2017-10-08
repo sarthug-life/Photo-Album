@@ -1,5 +1,6 @@
 # Photo-Album
 The Photo Album has following features:-
+
 	2.1 Login Form: index.php has the form, login.php has authentication
 		Authenticate using standard credentials: 
 			user:eval 
